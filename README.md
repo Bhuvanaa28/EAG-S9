@@ -11,7 +11,7 @@ Compare 3 laptops under ₹80,000.
 
 ### 2. Planner DAG
 
-![IMAGE ALT TEXT HERE](logs\dag_s9-3ccf6720.png)
+![IMAGE ALT TEXT HERE](logs/dag_s9-3ccf6720.png)
 
 ### 3. Browser path chosen: extract / deterministic / a11y / vision / blocked
 
@@ -38,7 +38,7 @@ Compare 3 laptops under ₹80,000.
 
 ### 5. Screenshots or page-state logs
 
-[![IMAGE ALT TEXT HERE](s9-3ccf6720\browser\browser_1781943040\a11y\turn_01_raw.png)]
+[![IMAGE ALT TEXT HERE](s9-3ccf6720/browser/browser_1781943040/a11y/turn_01_raw.png)]
 
 ### 6. Extracted data
 
