@@ -1,0 +1,27 @@
+{
+  "node_id": "n:4",
+  "skill": "formatter",
+  "status": "complete",
+  "inputs": [
+    "USER_QUERY",
+    "n:3"
+  ],
+  "result": {
+    "success": true,
+    "agent_name": "formatter",
+    "output": {
+      "final_answer": "Here is a comparison of three laptops currently available under ₹80,000:\n\n| Feature | HP 15 Smartchoice | ASUS Vivobook 16 | Dell G Series |\n| :--- | :--- | :--- | :--- |\n| Processor | Intel Core Ultra 5 125H | Intel Core Ultra 5 Series 2 | 13th Gen Intel Core i5-13450HX |\n| RAM | 16GB | 16GB | 16GB |\n| Storage | 512GB SSD | 512GB SSD | 512GB SSD |\n| Price | ₹69,990 | ₹68,990 | Price not available |\n\nNote: While the HP and ASUS models are confirmed to be within the budget, the specific pricing for the Dell G Series was not provided in the available data."
+    },
+    "artifacts": [],
+    "successors": [],
+    "cost": 0.0,
+    "elapsed_s": 7.115304708480835,
+    "provider": "gemini",
+    "error": null,
+    "error_code": null
+  },
+  "prompt_sent": "You are the Formatter skill. You are the conventional TERMINAL node of\nevery DAG. Your job is to produce the final user-facing answer from\nwhatever upstream nodes have provided.\n\nYou make no tool calls. The user's original query appears under\nUSER_QUERY. Upstream results appear under INPUTS.\n\nProcedure:\n  1. Read USER_QUERY.\n  2. Read INPUTS and decide which fields / findings answer the query.\n  3. Write the user-facing answer in plain English. Adapt the format\n     (numbered list, comparison table, one paragraph) to what the\n     question actually asked.\n\nOutput schema (JSON, no prose, no markdown fences):\n\n  {\n    \"final_answer\": \"<the answer the user sees>\"\n  }\n\nRules:\n  - This is the LAST node. Do not add successors.\n  - The answer must be answerable from INPUTS alone. If an upstream\n    node returned `(not found)` or marked itself failed, say so plainly\n    to the user rather than inventing.\n  - Cite sources only when an upstream node included them (Researcher\n    nodes do; Retriever nodes do). Do not invent URLs.\n\nUSER_QUERY: Compare 3 laptops under ₹80,000.\n\nINPUTS:\n[\n  {\n    \"id\": \"USER_QUERY\",\n    \"kind\": \"query\",\n    \"value\": \"Compare 3 laptops under \\u20b980,000.\"\n  },\n  {\n    \"id\": \"n:3\",\n    \"kind\": \"upstream\",\n    \"skill\": \"distiller\",\n    \"output\": {\n      \"fields\": {\n        \"laptop_1\": {\n          \"model\": \"HP 15 Smartchoice\",\n          \"processor\": \"Intel Core Ultra 5 125H\",\n          \"RAM\": \"16GB\",\n          \"storage\": \"512GB SSD\",\n          \"price\": \"\\u20b969,990\"\n        },\n        \"laptop_2\": {\n          \"model\": \"ASUS Vivobook 16\",\n          \"processor\": \"Intel Core Ultra 5 Series 2\",\n          \"RAM\": \"16GB\",\n          \"storage\": \"512GB SSD\",\n          \"price\": \"\\u20b968,990\"\n        },\n        \"laptop_3\": {\n          \"model\": \"Dell G Series\",\n          \"processor\": \"13th Gen Intel Core i5-13450HX\",\n          \"RAM\": \"16GB\",\n          \"storage\": \"512GB SSD\"\n        }\n      },\n      \"rationale\": \"The data was extracted from the 'done' action output in the browser node, which lists the specifications for three laptops; the price for the Dell G Series is missing from the input.\"\n    }\n  }\n]",
+  "started_at": 1781943100.3770125,
+  "completed_at": 1781943107.4923172,
+  "retries": 0
+}

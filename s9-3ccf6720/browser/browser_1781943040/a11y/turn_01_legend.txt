@@ -1,0 +1,101 @@
+[1]<a>Amazon.in</a>
+[2]<a role="button">Delivering to Chennai 600009 Update location</a>
+[3]<input role="searchbox">Search Amazon.in</input>
+[4]<input>Go</input>
+[5]<a>Choose a language for shopping in Amazon India. The current selection is English</a>
+[6]<a>Hello, sign in Account & Lists</a>
+[7]<button>Expand Account and Lists</button>
+[8]<a>Returns & Orders</a>
+[9]<a>0 items in cart</a>
+[10]<a role="button">Open All Categories Menu</a>
+[11]<a>Fresh</a>
+[12]<button>Fresh Details</button>
+[13]<a>MX Player</a>
+[14]<a>Sell</a>
+[15]<a>Bestsellers</a>
+[16]<a>Today's Deals</a>
+[17]<a>Prime</a>
+[18]<button>Prime Details</button>
+[19]<a>Mobiles</a>
+[20]<a>New Releases</a>
+[21]<a>Customer Service</a>
+[22]<a>Amazon Pay</a>
+[23]<a>Electronics</a>
+[24]<a>Home & Kitchen</a>
+[25]<a>Fashion</a>
+[26]<a>Computers</a>
+[27]<a>Toys & Games</a>
+[28]<a>Car & Motorbike</a>
+[29]<a>Beauty & Personal Care</a>
+[30]<a>Gift Cards</a>
+[31]<a>Home Improvement</a>
+[32]<a>Grocery & Gourmet Foods</a>
+[33]<a>Health, Household & Personal Care</a>
+[34]<a>Video Games</a>
+[35]<a>Custom Products</a>
+[36]<a>Sports, Fitness & Outdoors</a>
+[37]<a>Baby</a>
+[38]<a>Pet Supplies</a>
+[39]<a>Audible</a>
+[40]<a>AmazonBasics</a>
+[41]<a>Subscribe & Save</a>
+[42]<a>Books</a>
+[43]<a>Kindle eBooks</a>
+[44]<a>Flights</a>
+[45]<a>PD26_Event</a>
+[46]<label>Sort by:</label>
+[47]<select role="combobox">Sort by:</select>
+[48]<a>Sponsored ad from INTEL SEMICONDUCTOR [US] LLC. "Buy it once. Buy it right. Inte</a>
+[49]<a>INTEL SEMICONDUCTOR [US] LLC</a>
+[50]<a>Buy it once. Buy it right. Intel® Core™ Ultra PCs</a>
+[51]<span role="button">Leave feedback on Sponsored ad</span>
+[52]<a>Shop now</a>
+[53]<a></a>
+[54]<a></a>
+[55]<a></a>
+[56]<a>HP 15 Smartchoice, Intel Core Ultra 5 125H, 12 Tops (16GB DDR5, 512GB SSD) FHD, </a>
+[57]<a>Rated 3.7 out of 5 stars by 52 reviews. Go to review section.</a>
+[58]<a>Limited time deal</a>
+[59]<a>-16% ₹69,990.00 ₹69,990 . 00</a>
+[60]<a></a>
+[61]<a></a>
+[62]<a></a>
+[63]<a>ASUS Vivobook 16, Smartchoice, Intel Core Ultra 5 Series 2, 16GB RAM, 512GB SSD,</a>
+[64]<a>Rated 4.3 out of 5 stars by 83 reviews. Go to review section.</a>
+[65]<a>Limited time deal</a>
+[66]<a>-26% ₹68,990.00 ₹68,990 . 00</a>
+[67]<a></a>
+[68]<a></a>
+[69]<a></a>
+[70]<a></a>
+[71]<a role="button">Sponsored</a>
+[72]<a>Apple 2026 MacBook Air 13″ Laptop with M5 chip: AI and Apple Intelligence, 34.46</a>
+[73]<a role="button">3.6 out of 5 stars, rating details</a>
+[74]<a>6 ratings</a>
+[75]<a>₹1,30,100 ₹1,30,100 M.R.P: ₹1,39,900 M.R.P: ₹1,39,900 ₹1,39,900</a>
+[76]<button>Add to cart</button>
+[77]<a role="button">Sponsored</a>
+[78]<a>Dell G Series, 13th Gen Intel Core i5-13450HX, NVIDIA RTX 3050-6GB, 16GB DDR5, 5</a>
+[79]<a role="link">Apply the filter Free Shipping to narrow results</a>
+[80]<a role="link">Apply the filter HP to narrow results</a>
+[81]<a role="link">Apply the filter ASUS to narrow results</a>
+[82]<a role="link">Apply the filter Lenovo to narrow results</a>
+[83]<a role="link">Apply the filter Dell to narrow results</a>
+[84]<a role="link">Apply the filter 32 GB to narrow results</a>
+[85]<a role="link">Apply the filter 16 GB to narrow results</a>
+[86]<a role="link">Apply the filter 8 GB to narrow results</a>
+[87]<a role="link">Apply the filter 4 GB to narrow results</a>
+[88]<a role="link">Apply the filter 2 GB to narrow results</a>
+[89]<a role="link">Apply the filter 4 Stars & Up to narrow results</a>
+[90]<label>₹740</label>
+[91]<label>₹70,400+</label>
+[92]<input>Minimum price</input>
+[93]<input>Maximum price</input>
+[94]<a role="link">Up to ₹26,000</a>
+[95]<a role="link">₹26,000 - ₹47,500</a>
+[96]<a role="link">₹47,500 - ₹67,000</a>
+[97]<a role="link">Over ₹67,000</a>
+[98]<a role="link">All Discounts</a>
+[99]<span>Sort by:</span>
+[100]<span>Featured</span>
+[101]<i></i>
